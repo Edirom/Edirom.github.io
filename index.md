@@ -11,7 +11,6 @@ Setting up an _Edirom Online_ for your project is but one streak in publishing y
 
 ## Edirom Objects
 
-* [Content Object (Source or Edition)](content-object.md)
-* [Work Object](work-object.md)
-* [Editon Object](edition-object.md)
-* [Configuration Object](config-object.md)
+{% for edirom-object in site.edirom-objects %}
+* [{{ edirom-object.title }}]({{edirom-object.url}})
+{% endfor %}
