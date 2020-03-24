@@ -8,13 +8,13 @@ Content Objects could be [MEI](https://music-encoding.org/guidelines/v4/content/
 * Referenes to Work Objects (FRBR)
 * Referenes to Audio/Video files
 * Structural data
-** source folios
-** Music
-*** parts, numbers, acts, scenes …
-*** measures
-** Text
-*** divisions, chapters
-*** verse
+  * source folios
+  * Music
+   * parts, numbers, acts, scenes …
+   * measures
+  * Text
+   * divisions, chapters
+   * verse
 * Content
-** music
-** text
+ * music
+ * text
