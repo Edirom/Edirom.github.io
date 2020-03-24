@@ -1,3 +1,8 @@
+---
+layout: default
+title: Welcome
+---
+
 # Welcome to Edirom Github Pages
 
 This site offers you help and orientation when working in the context of digital music editions published with [Edirom Online](https://edirom.github.io/Edirom-Online/).
