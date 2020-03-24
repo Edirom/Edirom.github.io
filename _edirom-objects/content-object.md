@@ -1,3 +1,10 @@
+---
+layout: default
+name: configuration-object
+title: Content Object
+categories: edirom-objects
+---
+
 # Content Object
 
 Content Objects could be [MEI](https://music-encoding.org/guidelines/v4/content/) or [TEI](https://tei-c.org) files.
