@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: {{ site.title }}
 ---
 
 # Welcome to Edirom Github Pages
