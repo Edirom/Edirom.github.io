@@ -1,9 +1,9 @@
 ---
 layout: default
-title: {{ site.title }}
+title: Welcome
 ---
 
-# Welcome to Edirom Github Pages
+# Welcome to {{ site.title }}
 
 This site offers you help and orientation when working in the context of digital music editions published with [Edirom Online](https://edirom.github.io/Edirom-Online/).
 
@@ -14,3 +14,7 @@ Setting up an _Edirom Online_ for your project is but one streak in publishing y
 {% for edirom-object in site.edirom-objects %}
 * [{{ edirom-object.title }}]({{edirom-object.url}})
 {% endfor %}
+
+# Posts
+
+{% include posts_link-list.html %}
