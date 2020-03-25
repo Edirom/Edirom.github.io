@@ -6,3 +6,11 @@ categories: edirom-objects
 ---
 
 # Work Object
+
+## Metadata
+
+## References to [Content Objects](content-object)
+
+## Annotations
+
+## In future: Concordances
