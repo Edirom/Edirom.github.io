@@ -9,7 +9,7 @@ categories: edirom-objects
 
 ## Metadata
 
-## References to [Content Objects](content-object.md)
+## References to [Content Objects](content-object)
 
 ## Annotations
 
