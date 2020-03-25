@@ -14,6 +14,6 @@ categories: edirom-objects
 * Navigator content
 * Concordance Navigator behavior
 
-## References to [Work Objects](work-object.md)
+## References to [Work Objects](work-object)
 
 ## Concordances (currently)
