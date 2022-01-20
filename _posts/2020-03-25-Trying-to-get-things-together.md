@@ -2,6 +2,8 @@
 layout: post
 title:  "Trying to get things together"
 author: Benjamin W. Bohl
+categories: [general]
+
 ---
 
 Finally we at The *Virtual Research Group Edirom* (ViFE) have agreed to invest into a new endeavour, namely providing more documentation for our tools and concepts.
