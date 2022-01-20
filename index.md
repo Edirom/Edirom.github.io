@@ -15,6 +15,8 @@ Setting up an _Edirom Online_ for your project is but one streak in publishing y
 * [{{ edirom-object.title }}]({{edirom-object.url}})
 {% endfor %}
 
-# Posts
+# General Posts
 
-{% include posts_link-list.html %}
+{% include posts_link-list.html category="general" %}
+
+{% include posts_link-list.html category="" %}
